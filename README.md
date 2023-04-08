@@ -1,1 +1,1 @@
-# ConditonalGAN
+# Conditonal GAN using MNIST Dataset
